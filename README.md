@@ -78,7 +78,7 @@ else if (exp <= 8000) nivel = "Ouro"
 else nivel = "Lendário"
 
 console.log(`O Herói ${nome} está no nível ${nivel}`)
-
+```
 📈 Objetivos da Formação
 
 Desenvolver o raciocínio lógico aplicado à programação
