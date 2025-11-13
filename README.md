@@ -22,12 +22,12 @@ O foco é **construir uma base sólida em lógica de programação**, dominando 
 
 Cada diretório representa um desafio ou módulo da formação.
 
-📦 formacao-logica-programacao
-┣ 📂 desafio-01-classificador-heroi
-┃ ┣ 📜 classificador-heroi.js
-┃ ┗ 📜 README.md
-┣ 📂 desafio-02-calculadora-partidas
-┣ 📂 desafio-03-sistema-de-nivel
+📦 formacao-logica-programacao \
+┣ 📂 desafio-01-classificador-heroi \
+┃ ┣ 📜 classificador-heroi.js \
+┃ ┗ 📜 README.md \
+┣ 📂 desafio-02-calculadora-partidas \
+┣ 📂 desafio-03-sistema-de-nivel \
 ┣ 📜 README.md
 
 
