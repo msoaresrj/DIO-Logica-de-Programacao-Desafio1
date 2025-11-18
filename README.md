@@ -25,7 +25,10 @@ Cada diretório representa um desafio ou módulo da formação.
 📦 formacao-logica-programacao \
 ┣ 📂 desafio-01 \
 ┃ ┣ 📜 classificadorHeroi.js \
+┃ ┣ 📜 README.md
 ┣ 📂 desafio-02 \
+┃ ┣ 📜 calculadoraPartidasRankeadas.js \
+┃ ┣ 📜 README.md
 ┣ 📂 desafio-03 \
 ┣ 📜 README.md
 
