@@ -25,10 +25,10 @@ Cada diretório representa um desafio ou módulo da formação.
 📦 formacao-logica-programacao \
 ┣ 📂 desafio-01 \
 ┃ ┣ 📜 classificadorHeroi.js \
-┃ ┣ 📜 README.md
+┃ ┣ 📜 README.md \
 ┣ 📂 desafio-02 \
 ┃ ┣ 📜 calculadoraPartidasRankeadas.js \
-┃ ┣ 📜 README.md
+┃ ┣ 📜 README.md \
 ┣ 📂 desafio-03 \
 ┃ ┣ 📜 classesDeUmJogo.js \
 ┃ ┣ 📜 README.md \
@@ -79,7 +79,7 @@ Aprender a resolver problemas reais com algoritmos
 
 Preparar-se para o uso de linguagens e frameworks modernos
 
-👨‍💻 Autor: Marcos Soares 📍 Brasil \
+👨‍💻 Autor: Marcos Soares 📍 Brasil
 
 💼 Analista de TI Pleno | Desenvolvedor Full Stack | DevOPS \
 🔗 LinkedIn: https://www.linkedin.com/in/mvsoaresrj/ |🐙 GitHub: https://github.com/msoaresrj
