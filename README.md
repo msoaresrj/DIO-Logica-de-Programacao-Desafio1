@@ -30,6 +30,8 @@ Cada diretório representa um desafio ou módulo da formação.
 ┃ ┣ 📜 calculadoraPartidasRankeadas.js \
 ┃ ┣ 📜 README.md
 ┣ 📂 desafio-03 \
+┃ ┣ 📜 classesDeUmJogo.js \
+┃ ┣ 📜 README.md
 ┣ 📜 README.md
 
 
@@ -40,8 +42,8 @@ Cada diretório representa um desafio ou módulo da formação.
 | # | Desafio | Descrição | Status |
 |---|----------|------------|--------|
 | 01 | 🦸‍♂️ **Classificador de Heróis** | Lê os dados do herói e classifica o nível conforme a experiência. | ✅ Concluído |
-| 02 | ⚔️ **Calculadora de Partidas Rankeadas** | Calcula vitórias, derrotas e define o rank do jogador. | 🔜 Em desenvolvimento |
-| 03 | 🧮 **Escrevendo as classes de um Jogo** | Criar uma classe generica que represente um herói de uma aventura. | 🔜 Planejado |
+| 02 | ⚔️ **Calculadora de Partidas Rankeadas** | Calcula vitórias, derrotas e define o rank do jogador. | ✅ Concluído |
+| 03 | 🧮 **Escrevendo as classes de um Jogo** | Criar uma classe generica que represente um herói de uma aventura. | ✅ Concluído |
 
 ---
 
@@ -60,6 +62,8 @@ Cada diretório representa um desafio ou módulo da formação.
 - Estruturas de repetição (`for`, `while`)
 - Arrays e matrizes
 - Funções e modularização
+- Intrudoção a Classes e Objetos
+- Introdução ao uso de módulos JSON
 - Boas práticas e legibilidade de código
 - Simulação de lógica aplicada a jogos e sistemas
 
@@ -77,13 +81,9 @@ Preparar-se para o uso de linguagens e frameworks modernos
 
 👨‍💻 Autor
 
-Marcos Soares
-💼 Analista de TI Pleno | Desenvolvedor Full Stack
-📍 Brasil
-🔗 LinkedIn
- https://www.linkedin.com/in/mvsoaresrj/
-🐙 GitHub
-https://github.com/msoaresrj
+Marcos Soares \
+💼 Analista de TI Pleno | Desenvolvedor Full Stack |📍 Brasil \
+🔗 LinkedIn: https://www.linkedin.com/in/mvsoaresrj/ |🐙 GitHub: https://github.com/msoaresrj
 
 🏁 Considerações Finais
 
